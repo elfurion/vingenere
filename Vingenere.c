@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h> 
 #include <string.h>
-
+//Check vingenere
 int main(int argc, string argv[])
 {
 if (argc != 2)
