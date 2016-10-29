@@ -31,7 +31,7 @@ printf("Try again.");
 return 1; 
 } 
 
-for (int i = 0, n = 0; i < strlen(text); i++) 
+for (int i = 0, n = 0; i < size(text); i++) 
 { 
 if (isalpha(text[i])) 
 { 
