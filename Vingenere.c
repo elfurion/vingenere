@@ -18,7 +18,7 @@ void TryAgain() {
 
 		string key = argv[1];
 		unsigned long keyCount = size(key);
-        	//checking is key contains only alphavite letters
+        	//checking that key contains only alphavite letters
 					for(int k = 0; k < keyCount; k++)
   			{
     	if (!isalpha(key[k]))
